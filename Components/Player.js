@@ -1,0 +1,3 @@
+Component.Register(function Player() {
+	
+});
